@@ -14,28 +14,31 @@ This repository contains various frontend projects I’ve worked on while learni
 The repository is organized into four main sections:
 
 1. CSS Projects
-This folder contains projects built using HTML and CSS, it contains projects focused on mastering CSS, from layouts to animations.
 
-Project: Explore responsive designs, flexbox, grid, and more.
-Folder: css/
+ - This folder contains projects built using HTML and CSS, it contains projects focused on mastering CSS, from layouts to animations.
+    - Project: Explore responsive designs, flexbox, grid, and more.
+    -Folder: css/
 
 2. JavaScript Projects
-In this section, you will find projects created with vanilla JavaScript, which may also incorporate HTML, CSS, and sometimes TailwindCSS for styling.
 
-Projects range from DOM manipulation to algorithms and logic challenges.
-Folder: javascript/
+- In this section, you will find projects created with vanilla JavaScript, which may also incorporate HTML, CSS, and sometimes TailwindCSS for styling.
+
+    - Projects range from DOM manipulation to algorithms and logic challenges.
+    - Folder: javascript/
 
 3. React Projects
-This section includes mini React apps created during my learning journey and styled with TailwindCSS, Css Modules, Styled-components or SCSS
 
-Explore React components, hooks, state management, and more.
-Folder: react/
+- This section includes mini React apps created during my learning journey and styled with TailwindCSS, Css Modules, Styled-components or SCSS
+
+    - Explore React components, hooks, state management, and more.
+    - Folder: react/
 
 4. TailwindCSS Projects
-A collection of projects styled using the TailwindCSS utility-first framework.
 
-Experience clean and responsive UI designs with minimal custom CSS.
-Folder: tailwindcss/
+- A collection of projects styled using the TailwindCSS utility-first framework.
+
+    - Experience clean and responsive UI designs with minimal custom CSS.
+    - Folder: tailwindcss/
 
 ## Installation
 
