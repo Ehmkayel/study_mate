@@ -21,7 +21,7 @@ The repository is organized into four main sections:
 
 2. JavaScript Projects
 
-- In this section, you will find projects created with vanilla JavaScript, which may also incorporate HTML, CSS, and sometimes TailwindCSS for styling.
+- In this section, you will find projects created with vanilla JavaScript, which may also incorporate HTML, CSS, and sometimes Materialize css or TailwindCSS for styling.
 
     - Projects range from DOM manipulation to algorithms and logic challenges.
     - Folder: javascript/
