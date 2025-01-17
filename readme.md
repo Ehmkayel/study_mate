@@ -1,6 +1,6 @@
 # Study Mate
 
-This repository contains various frontend projects I’ve worked on while learning and mastering web development concepts. It includes CSS, JavaScript, React, and TailwindCSS projects to showcase my progress and experiments.
+This repository showcases my journey in web development through various frontend projects. It includes work with JavaScript, React, TailwindCSS, TypeScript, and Next.js, along with other modern tools and frameworks. As I continue to grow, I will be experimenting further with ShadCN UI and other technologies.
 
 ## Table of Contents
 
@@ -10,35 +10,52 @@ This repository contains various frontend projects I’ve worked on while learni
 6. [Technologies](#technologies)
 9. [Get In Touch](#get-in-touch)
 
+## Introduction
+
+Welcome to Study Mate! This repository contains a collection of projects that reflect my progress and experiments in frontend development. Each folder is dedicated to specific tools and technologies, with the goal of building clean, functional, and responsive web applications.
+
 ## Project Structure
 The repository is organized into four main sections:
 
-1. CSS Projects
-
- - This folder contains projects built using HTML and CSS, it contains projects focused on mastering CSS, from layouts to animations.
-    - Project: Explore responsive designs, flexbox, grid, and more.
-    -Folder: css/
-
-2. JavaScript Projects
+1. JavaScript Projects
 
 - In this section, you will find projects created with vanilla JavaScript, which may also incorporate HTML, CSS, and sometimes Materialize css or TailwindCSS for styling.
 
     - Projects range from DOM manipulation to algorithms and logic challenges.
     - Folder: javascript/
 
-3. React Projects
+
+2. React Projects
 
 - This section includes mini React apps created during my learning journey and styled with TailwindCSS, Css Modules, Styled-components or SCSS
 
     - Explore React components, hooks, state management, and more.
     - Folder: react/
 
-4. TailwindCSS Projects
+3. TailwindCSS Projects
 
 - A collection of projects styled using the TailwindCSS utility-first framework.
 
     - Experience clean and responsive UI designs with minimal custom CSS.
     - Folder: tailwindcss/
+ 
+ 4. TypeScript Projects
+
+Projects utilizing TypeScript for building scalable and type safe applications. These projects often include integrations with React and other frameworks.
+
+Folder: typescript/
+
+5. Next.js Projects
+
+Server rendered React applications built with Next.js, exploring features like static site generation (SSG), server side rendering (SSR), and API routes.
+
+Folder: nextjs/
+
+6. Upcoming: ShadCN UI Projects
+
+Projects leveraging the ShadCN UI library for elegant and reusable components.
+
+Folder: shadcn_ui/ (planned)
 
 ## Installation
 
@@ -56,6 +73,20 @@ Follow the instructions in the individual project folders for setup and usage.
 
 
 ## Technologies
+
+This repository leverages the following technologies:
+
+Core Languages: HTML, CSS, JavaScript, TypeScript
+
+Frameworks & Libraries:
+
+React
+
+Next.js
+
+TailwindCSS
+
+ShadCN UI (planned)
 
 
 
