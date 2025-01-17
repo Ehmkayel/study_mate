@@ -6,9 +6,12 @@ This repository showcases my journey in web development through various frontend
 
 1. [Introduction](#introduction)
 2. [Project Structure](#project-structure)
-5. [Installation](#installation)
-6. [Technologies](#technologies)
-9. [Get In Touch](#get-in-touch)
+3. [Features](#features)
+4. [Roadmap](#roadmap)
+5. [Project Highlights](#project-highlights)
+6. [Installation](#installation)
+7. [Technologies](#technologies)
+8. [Get In Touch](#get-in-touch)
 
 ## Introduction
 
@@ -53,9 +56,34 @@ Folder: nextjs/
 
 6. Upcoming: ShadCN UI Projects
 
-Projects leveraging the ShadCN UI library for elegant and reusable components.
+ - Projects leveraging the ShadCN UI library for elegant and reusable components.
 
-Folder: shadcn_ui/ (planned)
+ - Folder: shadcn_ui/ (planned)
+
+## Features
+
+- Scalable Codebase: Projects built with TypeScript for type safety and scalability.
+
+- Responsive Designs: Clean and mobile first UIs created with Tdifferent stylings
+
+- Modern Frameworks: Leveraging Next.js for server side rendering and static site generation.
+
+- Reusable Components: Planned use of ShadCN UI for consistent and elegant designs.
+
+- Progressive Learning: Projects showcase a step-by-step mastery of frontend concepts.
+
+## Roadmap
+
+
+- Deep Dive into TypeScript: Advanced types, generics, and decorators.
+
+- Master Next.js Features: Implement server side rendering, API routes, and middleware.
+
+- ShadCN UI Integration: Explore building reusable and visually appealing components.
+
+- State Management Tools: Experiment with Redux, Zustand, and other libraries.
+
+
 
 ## Installation
 
