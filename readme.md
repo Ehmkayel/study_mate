@@ -5,7 +5,7 @@ This repository showcases my journey in web development through various frontend
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Project Structure](#project-structure)
+2. [Repository Structure](#repository-structure)
 3. [Features](#features)
 4. [Roadmap](#roadmap)
 5. [Project Highlights](#project-highlights)
@@ -15,10 +15,20 @@ This repository showcases my journey in web development through various frontend
 
 ## Introduction
 
-Welcome to Study Mate! This repository contains a collection of projects that reflect my progress and experiments in frontend development. Each folder is dedicated to specific tools and technologies, with the goal of building clean, functional, and responsive web applications.
+Welcome to Study Mate! This repository contains a collection of projects and study notes that reflect my progress and experiments in frontend development. The repository is divided into Projects and Study sections. 
 
-## Project Structure
-The repository is organized into four main sections:
+The Projects section consists of mini projects and real world applications, while the Study section includes my personal notes, explorations, and learning journeys as I work with different technologies.
+
+## Repository Structure
+
+The repository is organized into two main sections and four primary subsections:
+
+    Main Sections:
+    - Projects
+    - Study
+
+### Project Sections
+This section is categorized into;
 
 1. JavaScript Projects
 
@@ -60,6 +70,26 @@ Folder: nextjs/
 
  - Folder: shadcn_ui/ (planned)
 
+### Study Section:
+
+The Study section of this repository is a comprehensive collection of my personal notes, experiments, and deep dives into the key concepts of frontend development. The aim of this section is to document my learning journey and experiments with different tools, libraries, and frameworks. It is a place where I explore various concepts, techniques, and best practices to gain a deeper understanding of frontend technologies.
+
+The Study section will be continuously updated as I progress through different stages of my learning.
+
+Here’s how the Study section is organized:
+
+1. JavaScript Fundamentals and ES6+
+2. Reacts
+3. TypeScript
+4. TailwindCSS
+5. Next.js
+6. ShadCN UI (Planned)
+7. Testing
+
+Additional Features of the Study Section:
+ - I'll add my own notes on common pitfalls, learning summaries, and important lessons learned along the way.
+ - I will add link to other tutorials, videos, or documentation that have helped me learn each topic.
+
 ## Features
 
 - Scalable Codebase: Projects built with TypeScript for type safety and scalability.
@@ -92,9 +122,9 @@ Clone the repo using:
     git clone https://github.com/Ehmkayel/study_mate.git
 ```
 
-Navigate to the desired project folder:
+Navigate to the desired folder:
 ```bash
-    cd React
+    cd Projects
 ```
 
 Follow the instructions in the individual project folders for setup and usage.
@@ -104,17 +134,17 @@ Follow the instructions in the individual project folders for setup and usage.
 
 This repository leverages the following technologies:
 
-Core Languages: HTML, CSS, JavaScript, TypeScript
+- Core Languages: HTML, CSS, JavaScript, TypeScript
 
-Frameworks & Libraries:
+- Frameworks & Libraries:
 
-React
+    1. React
 
-Next.js
+    2. Next.js
 
-TailwindCSS
+    3. TailwindCSS
 
-ShadCN UI (planned)
+    4. ShadCN UI (planned)
 
 
 
@@ -122,6 +152,7 @@ ShadCN UI (planned)
 
 You can reach out to me;
  - Linkedin- [Morufat-Lamidi](https://linkedin.com/in/morufat-lamidi)
+ - Tiktok- [Ehmkay]()
  - Frontend Mentor - [@Ehmkayel](https://www.frontendmentor.io/profile/Ehmkayel)
  - Twitter - [@kamalehmk](https://www.twitter.com/kamalehmk)
  - Gmail- [Mail](mailto:lamidimorufat0@gmail.com);
