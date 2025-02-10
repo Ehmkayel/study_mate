@@ -72,7 +72,7 @@ Folder: nextjs/
 
 ### Study Section:
 
-The Study section of this repository is a comprehensive collection of my personal notes, experiments, and deep dives into the key concepts of frontend development. The aim of this section is to document my learning journey and experiments with different tools, libraries, and frameworks. It is a place where I explore various concepts, techniques, and best practices to gain a deeper understanding of frontend technologies.
+The Study section of this repository is a comprehensive collection of my personal notes, experiments, and deep dives into the key concepts of frontend development which is going to be organized in folders. The aim of this section is to document my learning journey and experiments with different tools, libraries, and frameworks. It is a place where I explore various concepts, techniques, and best practices to gain a deeper understanding of frontend technologies.
 
 The Study section will be continuously updated as I progress through different stages of my learning.
 
@@ -152,7 +152,7 @@ This repository leverages the following technologies:
 
 You can reach out to me;
  - Linkedin- [Morufat-Lamidi](https://linkedin.com/in/morufat-lamidi)
- - Tiktok- [Ehmkay]()
+ - Tiktok- [Ehmkay](https://www.tiktok.com/@_ehmkay?)
  - Frontend Mentor - [@Ehmkayel](https://www.frontendmentor.io/profile/Ehmkayel)
  - Twitter - [@kamalehmk](https://www.twitter.com/kamalehmk)
  - Gmail- [Mail](mailto:lamidimorufat0@gmail.com);

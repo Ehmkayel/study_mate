@@ -7,7 +7,6 @@ interface HeaderProps {
   }
   children: ReactNode
 }
-
 const Header: React.FC<HeaderProps> = ({image, children}) => {
   return (
     <header>
