@@ -14,16 +14,16 @@ export type CourseGoal = {
 export default function App() {
   const [goals, setGoals] = useState<CourseGoal[]>([]);
 
-  // const handleClick = () => {
-  //   setGoals(prevGoals => {
-  //     const newGoal: CourseGoal = {
-  //       id: Math.random(),
-  //       title: 'Learn React + Title',
-  //       description: 'Learn it in depth'
-  //     };
-  //     return [...prevGoals, newGoal];
-  //   });
-  // };
+  const handleClick = (goal: string, summary: string) => {
+    setGoals(prevGoals => {
+      const newGoal: CourseGoal = {
+        id: Math.random(),
+        title: goal,
+        description: summary
+      };
+      return [...prevGoals, newGoal];
+    });
+  };
 
   const handleDelete = (id: number) => {
     setGoals(prevGoals => prevGoals.filter((goal) => goal.id !== id))
@@ -35,7 +35,7 @@ export default function App() {
       <Header image={{ src: goalsImg, alt: 'course goals' }}>
         <h1>Course Goals</h1>
       </Header>
-      <NewGoal/>
+      <NewGoal onAddGoal={handleClick}/>
       <CourseGoalList goals={goals} onDeleteGoal={handleDelete} />
     </main>
   );
