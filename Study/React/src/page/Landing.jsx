@@ -4,8 +4,8 @@ import Card from '../components/Card'
 
 const Landing = () => {
   return (
-    <div className='space-y-6'>
-      <span className='pt-4'>
+    <div className='space-y-6 mt-4'>
+      <span className=''>
         <h1 className='font-bold text-fuchsia-700 text-base lg:text-3xl text-center'>Tuning into my Journey: A podcast playlist for growth and inspiration</h1>
         <p className='w-full max-w-7xl text-center mx-auto'>Welcome to my corner of the internet where I share the podcasts that have become the soundtrack to my journey of personal growth and self discovery</p>
       </span>
@@ -25,6 +25,7 @@ const Landing = () => {
         ))}
       </div>
     </div>
+    <footer className='font-bold text-center text-fuchsia-700'>NOTE: I can't wait to add my friend's FOG(Fragment's of Growth) to the list soon, gently awaiting her first episode</footer>
     </div>
     
   );
