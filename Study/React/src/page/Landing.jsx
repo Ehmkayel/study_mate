@@ -2,6 +2,7 @@ import React from 'react'
 import { Podcasters } from '../data'
 import Card from '../components/Card'
 
+
 const Landing = () => {
   return (
     <div className='space-y-6 mt-4'>
