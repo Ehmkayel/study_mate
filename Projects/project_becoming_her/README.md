@@ -101,7 +101,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Get in Touch
 
-YIf you have any questions or suggestions, feel free to reach out:
+If you have any questions or suggestions, feel free to reach out:
  - Linkedin- [Morufat-Lamidi](https://linkedin.com/in/morufat-lamidi)
  - Tiktok- [Ehmkay](https://www.tiktok.com/@_ehmkay?)
  - Frontend Mentor - [@Ehmkayel](https://www.frontendmentor.io/profile/Ehmkayel)
