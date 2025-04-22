@@ -28,3 +28,23 @@ if (BMIMark > BMIJohn) {
   console.log("John BMI is greater than Mark Bmi");
   console.log(`John BMI ${BMIJohn} is greater than Mark Bmi ${BMIMark}`);
 }
+
+const day = "Thursday";
+switch (day) {
+  case "monday":
+    console.log("It's raining");
+    break;
+  case "Tuesday":
+    console.log("I love eating");
+    break;
+  case "Wednesday":
+    console.log("I write code and I am glad I can solve problems");
+    break;
+  case "Thursday":
+    console.log("Today is thursday");
+    break;
+  default:
+    console.log("I love me");
+}
+
+
