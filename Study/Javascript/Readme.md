@@ -9,8 +9,10 @@ I'm focused on strengthening my understanding of the language by exploring key c
 - Conditional logic and comparison operations
 - Variables, data types, and arithmetic expressions
 - Using the console for debugging and practice outputs
+- Switch, Statements and Expressions
+- The Conditional Ternary Operator
 
-### Week 1
+### Foundation recap
 
 - Studied **data types** in JavaScript (primitive vs reference)
 - Learned about **type coercion** and **type conversion**
@@ -21,6 +23,10 @@ I'm focused on strengthening my understanding of the language by exploring key c
 - Used `console.log` as a primary feedback tool for browser based output
 - Compared BMI values using arithmetic expressions and conditional statements
 - Used `if...else` and logical operators like `||` to compare variables and print results
+- Explored how the switch statement works 
+- Practiced converting if...else blocks into switch statements for cleaner code structure
+- Understood the difference between statements and expressions in JavaScript
+- Learned and applied the conditional (ternary) operator as a concise alternative to simple if...else logic
 
 P.S:. These are not full projects but small, focused exercises designed to build fluency with the language, for projects you can check the projects folder
 
