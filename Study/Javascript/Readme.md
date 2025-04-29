@@ -2,7 +2,9 @@
 
 This folder documents my foundational learning and daily practice with **JavaScript**.
 
-I'm focused on strengthening my understanding of the language by exploring key concepts such as:
+I'm focused on strengthening my understanding of the language by exploring key concepts 
+
+### Topics covered so far
 
 - DOM manipulation and browser interactions
 - Template literals and dynamic string handling
@@ -11,10 +13,15 @@ I'm focused on strengthening my understanding of the language by exploring key c
 - Using the console for debugging and practice outputs
 - Switch, Statements and Expressions
 - The Conditional Ternary Operator
+- Javascript Releases
+- How to use Modern Javascript today
+- Activating Strict Mode
+- Functions
+- Ternary Operators
 
 ### Foundation recap
 
-- Studied **data types** in JavaScript (primitive vs reference)
+ - Studied **data types** in JavaScript (primitive vs reference)
 - Learned about **type coercion** and **type conversion**
 - Understood how **strict (`===`) vs loose (`==`) equality operators** work
 - Reviewed **basic arithmetic and assignment operators** and their behaviors
