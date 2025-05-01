@@ -78,13 +78,14 @@ The Study section will be continuously updated as I progress through different s
 
 Here’s how the Study section is organized:
 
-1. JavaScript Fundamentals and ES6+
+1. JavaScript 
 2. Reacts
 3. TypeScript
 4. TailwindCSS
 5. Next.js
 6. ShadCN UI (Planned)
 7. Testing
+8. Version_Control
 
 Additional Features of the Study Section:
  - I'll add my own notes on common pitfalls, learning summaries, and important lessons learned along the way.
