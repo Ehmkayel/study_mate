@@ -112,6 +112,7 @@ Tracked via:
 - Use `git commit --amend` to fix typos in last commit.
 - Always pull before push to avoid conflicts.
 - Follow [Conventional Commits](https://www.conventionalcommits.org/) for clarity.
+- Don't initialize a new repo inside a repo
 
 ---
 
