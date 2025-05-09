@@ -113,6 +113,10 @@ Tracked via:
 - Always pull before push to avoid conflicts.
 - Follow [Conventional Commits](https://www.conventionalcommits.org/) for clarity.
 - Don't initialize a new repo inside a repo
+- Keep first line under 50 characters
+- Use present imperative tense ("add" not "added")
+- Reference specific components/files if needed
+- Group related changes in bullet points
 
 ---
 
