@@ -72,5 +72,13 @@ function Ramadan () {
 
 Ramadan()
 
+function foodstuffs(rice, yam){
+  console.log(rice, yam);
+  const foods = `I bought some foodstuffs and I used my balance to buy ${rice} bags of rice and ${yam} tubers of yam`;
+  return foods
+}
+const foodStuffArguements = foodstuffs(8, 19);
+console.log(foodStuffArguements)
+
 
 
