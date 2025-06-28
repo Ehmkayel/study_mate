@@ -21,11 +21,13 @@ The Projects section consists of mini projects and real world applications, whil
 
 ## Repository Structure
 
-The repository is organized into two main sections and four primary subsections:
+The repository is organized into four main sections and four primary subsections:
 
     Main Sections:
     - Projects
     - Study
+    - ShortNotes
+    - Mini-Challenges
 
 ### Project Sections
 This section is categorized into;
