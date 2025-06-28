@@ -35,6 +35,7 @@ I'm focused on strengthening my understanding of the language by exploring key c
 - Understood the difference between statements and expressions in JavaScript
 - Learned and applied the conditional (ternary) operator as a concise alternative to simple if...else logic
 
+
 P.S:. These are not full projects but small, focused exercises designed to build fluency with the language, for projects you can check the projects folder
 
 ## Get in Touch

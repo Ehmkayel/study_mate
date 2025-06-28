@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 const yearSpan = document.getElementById("year");
 const currentYear = new Date().getFullYear();
 yearSpan.textContent = currentYear;
@@ -66,19 +66,51 @@ console.log(
   `The bill was ${bill}, the tip was ${tip} and total value = ${tip + bill}`
 );
 
-function Ramadan () {
-  console.log("my name is Ramadan")
+function Ramadan() {
+  console.log("my name is Ramadan");
 }
 
-Ramadan()
+Ramadan();
 
-function foodstuffs(rice, yam){
+function foodstuffs(rice, yam) {
   console.log(rice, yam);
   const foods = `I bought some foodstuffs and I used my balance to buy ${rice} bags of rice and ${yam} tubers of yam`;
-  return foods
+  return foods;
 }
 const foodStuffArguements = foodstuffs(8, 19);
-console.log(foodStuffArguements)
+console.log(foodStuffArguements);
 
+// function Declaration
+function calcYear(birthyear) {
+  const age = 2025 - birthyear;
+  return age;
+}
+const year = calcYear(26);
+console.log(year);
 
+// function Expression(Anonymouns function)
+const calcAge = function (birthyear) {
+  return 2025 - birthyear;
+};
+const ageR = calcAge(year);
+console.log(year, ageR);
 
+const currenYear = new Date().getFullYear();
+const CalculateAge = (birthYear) => currenYear - birthYear;
+const myAge = calcAge(1976);
+console.log(myAge);
+const month = new Date().getMonth();
+console.log(month);
+
+const Fruits = (fruit) => {
+  return fruit * 4;
+};
+
+const FruitProcessor = (apple, mango) => {
+  const fruitsPieces = Fruits(apple);
+  const mangoFruits = Fruits(mango);
+  const Juices = `Juice with ${fruitsPieces} pieces of apple and ${mangoFruits} pieces of Mangos`
+  return Juices
+};
+
+console.log(FruitProcessor(10, 2));
