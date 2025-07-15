@@ -109,8 +109,31 @@ const Fruits = (fruit) => {
 const FruitProcessor = (apple, mango) => {
   const fruitsPieces = Fruits(apple);
   const mangoFruits = Fruits(mango);
-  const Juices = `Juice with ${fruitsPieces} pieces of apple and ${mangoFruits} pieces of Mangos`
-  return Juices
+  const Juices = `Juice with ${fruitsPieces} pieces of apple and ${mangoFruits} pieces of Mangos`;
+  return Juices;
 };
 
 console.log(FruitProcessor(10, 2));
+
+// Arrays
+
+const friends = ["Natasha", "Ngozi", "Aishat"];
+console.log('my friends', friends)
+
+const fruits = new Array('Apple', 'Pineapple')
+console.log(fruits)
+console.log(fruits.length)  
+console.log(fruits.push('Mango'))
+console.log('new addition', fruits)
+fruits.unshift('Anita')
+console.log('Adding to the front', fruits)
+
+// Remove arrays
+friends.pop() 
+console.log('To remove last element', friends)
+friends.shift()
+console.log("To remove first element", friends);
+
+// array position
+console.log(friends.indexOf('Ngozi'))
+console.log(friends.includes('Ramadan'))
